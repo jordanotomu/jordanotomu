@@ -3,107 +3,207 @@
   (same name as your username). GitHub will auto-render it at github.com/jordanotomu.
 -->
 
-<div align="center">
+<h1><i>Jordan&nbsp;&nbsp;Otomu</i></h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d95,50:b84dff,100:00f0ff&height=220&section=header&text=JORDAN%20OTOMU&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=twinkling&stroke=0a0420&strokeWidth=1" alt="header banner" />
+<sub>
 
-<a href="https://github.com/jordanotomu">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=3000&pause=800&color=FF2D95&center=true&vCenter=true&width=720&height=50&lines=%3E+CS+%40+University+of+Houston;%3E+Incoming+SWE+Intern+%40+Snap;%3E+Building+%2B+breaking+%2B+shipping+pixels;%3E+Houston%2C+TX+%E2%80%A2+UTC-05" alt="typing animation" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jordanotomu)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/jordanotomu)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@jordanotomu.com)
+&nbsp;
+[![Website](https://img.shields.io/badge/jordanotomu.com-1a1a1a?style=flat-square&logo=safari&logoColor=white)](https://jordanotomu.com)
+
+</sub>
 
 <br />
 
-<a href="https://linkedin.com/in/jordanotomu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/jordanotomu"><img src="https://img.shields.io/badge/GitHub-0a0420?style=for-the-badge&logo=github&logoColor=ff2d95" alt="GitHub" /></a>
-<a href="mailto:hello@jordanotomu.com"><img src="https://img.shields.io/badge/Email-ff2d95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=jordanotomu&style=for-the-badge&color=ff2d95&label=VISITORS" alt="profile views" />
+> **`cat ~/for-visitors.md`**
+>
+> thanks for stopping by. here's a small collection of who i am and what i'm building.
 
-</div>
+<br />
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### `whoami`
+
+Hi, I'm Jordan — a CS student at the **University of Houston** and an **incoming Software Engineering Intern at Snap**.
+
+Most of my time goes into systems, infra, web, and the occasional pixel-art detour (shoutout to the time I contributed to `open-pixel-art`). I like shipping small, well-crafted things; I think the best way to learn is to build the thing badly first, then do it well.
+
+When I'm not working on something, I'm usually at the gym, cooking, or spending a whole Saturday on a tiny bug that turned out to be a typo.
+
+Feel free to reach out on **[LinkedIn](https://linkedin.com/in/jordanotomu)**.
+
+</td>
+<td width="38%" align="center" valign="top">
+
+<img src="https://github.com/jordanotomu.png" width="220" alt="Jordan" />
+
+<sub><i>// user.png</i></sub>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+### `cat ~/random.md`
+
+> _"do the thing badly before you do it well."_ — life motto
+
+<br />
+
+<table>
+<tr><td>
+
+<details>
+<summary><b>&nbsp;toolbox&nbsp;</b></summary>
+
+<br />
+
+`Go` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `C++` &nbsp;·&nbsp; `C#` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `Lua`
+
+`React` &nbsp;·&nbsp; `Node` &nbsp;·&nbsp; `Git` &nbsp;·&nbsp; `Linux` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `Vim` &nbsp;·&nbsp; `Neovim`
+
+</details>
+
+<details>
+<summary><b>&nbsp;now&nbsp;</b></summary>
+
+<br />
+
+- shipping at `Snap` (starting summer 2026)
+- finishing my CS degree at UH
+- writing small weekend projects
+- trying to touch grass more often
+
+</details>
+
+<details>
+<summary><b>&nbsp;lore&nbsp;</b></summary>
+
+<br />
+
+- based in Houston, TX
+- first language i really loved: Lua (from making Roblox games as a kid)
+- currently obsessed with Go and learning more about distributed systems
+- favorite terminal: `ghostty`
+
+</details>
+
+<details>
+<summary><b>&nbsp;wins&nbsp;</b></summary>
+
+<br />
+
+- snap swe intern offer — summer 2026
+- contributed to `open-pixel-art` (twilio-labs)
+- still alive after 3 years of college
+
+</details>
+
+</td></tr>
+</table>
+
+<br />
+
+### `cat ~/experience.md`
+
+<table>
+<tr><td width="28%" valign="top">
+
+**Snap Inc.**
+<br /><sub>Santa Monica, CA</sub>
+
+</td><td width="48%" valign="top">
+
+_Software Engineering Intern_
+<br /><sub>Incoming · summer 2026</sub>
+
+</td><td width="24%" valign="top" align="right">
+
+<sub>`05/2026 – 08/2026`</sub>
+
+</td></tr>
+<tr><td valign="top">
+
+**University of Houston**
+<br /><sub>Houston, TX</sub>
+
+</td><td valign="top">
+
+_B.S. Computer Science_
+<br /><sub>coursework in systems, algorithms, networks</sub>
+
+</td><td valign="top" align="right">
+
+<sub>`2023 – present`</sub>
+
+</td></tr>
+</table>
+
+<br />
+
+### `cat ~/projects.md`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[ go-tutorial ](https://github.com/jordanotomu/go-tutorial)** &nbsp;·&nbsp; <sub>`Go`</sub>
+<br /><sub>learning Go the hard way — notes and mini projects</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[ open-pixel-art ](https://github.com/twilio-labs/open-pixel-art)** &nbsp;·&nbsp; <sub>`JavaScript`</sub>
+<br /><sub>a collaborative pixel-art project for oss newcomers</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[ rblx ](https://github.com/jordanotomu/rblx)** &nbsp;·&nbsp; <sub>`Lua`</sub>
+<br /><sub>roblox experiments and miscellaneous hacks</sub>
+
+</td>
+<td valign="top">
+
+**[ cpp ](https://github.com/jordanotomu/cpp)** &nbsp;·&nbsp; <sub>`C++`</sub>
+<br /><sub>coursework, algorithms, and systems practice</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[ console_calculator ](https://github.com/jordanotomu/console_calculator)** &nbsp;·&nbsp; <sub>`C#`</sub>
+<br /><sub>a console calculator — classics never die</sub>
+
+</td>
+<td valign="top">
+
+**[ qmeehd ](https://github.com/jordanotomu/qmeehd)** &nbsp;·&nbsp; <sub>`misc`</sub>
+<br /><sub>an experimental playground — wip</sub>
+
+</td>
+</tr>
+</table>
+
+<br />
 
 ---
 
-## <img src="https://img.shields.io/badge/-%3E_whoami-ff2d95?style=flat-square&logoColor=white" />
+<br />
 
-```txt
-┌─[jordan@otomu]─[~]
-└──╼ cat about.txt
+<sub>
 
-  name      = "Jordan Otomu"
-  role      = "CS @ University of Houston"
-  next      = "Incoming SWE Intern @ Snap"
-  location  = "Houston, TX"
-  status    = online ●
-  focus     = "systems, infra, pixels, shipping real things"
-```
+<i>last updated · april 2026 &nbsp;·&nbsp; <a href="https://jordanotomu.com">jordanotomu.com</a></i>
 
----
-
-## <img src="https://img.shields.io/badge/-%3E_cat_stack.txt-00f0ff?style=flat-square" />
-
-<div align="center">
-
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## <img src="https://img.shields.io/badge/-%3E_ls_.%2Fstats-f9f871?style=flat-square" />
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jordanotomu&show_icons=true&hide_border=false&title_color=ff2d95&icon_color=00f0ff&text_color=e6f0ff&bg_color=0a0420&border_color=ff2d95&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanotomu&layout=compact&hide_border=false&title_color=ff2d95&text_color=e6f0ff&bg_color=0a0420&border_color=ff2d95&langs_count=8" />
-
-<img height="180" src="https://streak-stats.demolab.com?user=jordanotomu&theme=radical&background=0a0420&border=ff2d95&stroke=ff2d95&ring=00f0ff&fire=ff2d95&currStreakLabel=00f0ff&currStreakNum=ffffff&sideLabels=e6f0ff&dates=8a8fb3" />
-
-</div>
-
----
-
-## <img src="https://img.shields.io/badge/-%3E_.%2Ftrophies-b84dff?style=flat-square" />
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jordanotomu&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
-## <img src="https://img.shields.io/badge/-%3E_.%2Fcontrib.sh-39ff14?style=flat-square" />
-
-<div align="center">
-
-<!--
-  The snake below requires a small GitHub Action (see setup notes in the main README).
-  If you haven't set it up yet, you can delete this image or it'll just 404.
--->
-<img src="https://raw.githubusercontent.com/jordanotomu/jordanotomu/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jordanotomu&bg_color=0a0420&color=ff2d95&line=00f0ff&point=f9f871&area=true&hide_border=false&custom_title=Commit+Activity" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:b84dff,100:ff2d95&height=120&section=footer" />
-
-<sub><em>// thanks for scrolling · press <kbd>★</kbd> if you like the vibe</em></sub>
-
-</div>
+</sub>
