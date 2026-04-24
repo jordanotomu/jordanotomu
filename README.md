@@ -118,7 +118,7 @@ Feel free to reach out on **[LinkedIn](https://linkedin.com/in/jordanotomu)**.
 <tr><td width="28%" valign="top">
 
 **Snap Inc.**
-<br /><sub>Santa Monica, CA</sub>
+<br /><sub>San Francisco, CA</sub>
 
 </td><td width="48%" valign="top">
 
