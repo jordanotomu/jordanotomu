@@ -33,7 +33,7 @@
 
 Hi, I'm Jordan — a CS student at the **University of Houston** and an **incoming Software Engineering Intern at Snap**.
 
-Most of my time goes into systems, infra, web, and the occasional pixel-art detour (shoutout to the time I contributed to `open-pixel-art`). I like shipping small, well-crafted things; I think the best way to learn is to build the thing badly first, then do it well.
+Most of my time goes into systems, infra, and the web. I like shipping small, well-crafted things — I think the best way to learn is to build the thing badly first, then do it well.
 
 When I'm not working on something, I'm usually at the gym, cooking, or spending a whole Saturday on a tiny bug that turned out to be a typo.
 
@@ -102,7 +102,6 @@ Feel free to reach out on **[LinkedIn](https://linkedin.com/in/jordanotomu)**.
 <br />
 
 - snap swe intern offer — summer 2026
-- contributed to `open-pixel-art` (twilio-labs)
 - still alive after 3 years of college
 
 </details>
@@ -155,28 +154,28 @@ _B.S. Computer Science_
 <tr>
 <td width="50%" valign="top">
 
-**[ go-tutorial ](https://github.com/jordanotomu/go-tutorial)** &nbsp;·&nbsp; <sub>`Go`</sub>
-<br /><sub>learning Go the hard way — notes and mini projects</sub>
+**[ CoogGrid-Houston ](https://github.com/jordanotomu/CoogGrid-Houston)** &nbsp;·&nbsp; <sub>`featured`</sub>
+<br /><sub>// description coming soon</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**[ open-pixel-art ](https://github.com/twilio-labs/open-pixel-art)** &nbsp;·&nbsp; <sub>`JavaScript`</sub>
-<br /><sub>a collaborative pixel-art project for oss newcomers</sub>
+**[ go-tutorial ](https://github.com/jordanotomu/go-tutorial)** &nbsp;·&nbsp; <sub>`Go`</sub>
+<br /><sub>learning Go the hard way — notes and mini projects</sub>
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-**[ rblx ](https://github.com/jordanotomu/rblx)** &nbsp;·&nbsp; <sub>`Lua`</sub>
-<br /><sub>roblox experiments and miscellaneous hacks</sub>
+**[ cpp ](https://github.com/jordanotomu/cpp)** &nbsp;·&nbsp; <sub>`C++`</sub>
+<br /><sub>coursework, algorithms, and systems practice</sub>
 
 </td>
 <td valign="top">
 
-**[ cpp ](https://github.com/jordanotomu/cpp)** &nbsp;·&nbsp; <sub>`C++`</sub>
-<br /><sub>coursework, algorithms, and systems practice</sub>
+**[ rblx ](https://github.com/jordanotomu/rblx)** &nbsp;·&nbsp; <sub>`Lua`</sub>
+<br /><sub>roblox experiments and miscellaneous hacks</sub>
 
 </td>
 </tr>
