@@ -155,7 +155,7 @@ _B.S. Computer Science_
 <td width="50%" valign="top">
 
 **[ CoogGrid-Houston ](https://github.com/jordanotomu/CoogGrid-Houston)** &nbsp;·&nbsp; <sub>`featured`</sub>
-<br /><sub>// description coming soon</sub>
+<br /><sub>community microgrid simulator for houston — built at cfe hackathon s26</sub>
 
 </td>
 <td width="50%" valign="top">
