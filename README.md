@@ -42,7 +42,7 @@ Reach out on **[LinkedIn](https://linkedin.com/in/jordanotomu/)** or **[email](m
 </td>
 <td width="38%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/jordanotomu/jordanotomu.com/main/assets/photos/jordan-dc.jpg" width="220" alt="Jordan" />
+<img src="https://raw.githubusercontent.com/jordanotomu/jordanotomu.com/main/public/assets/photos/jordan-dc.jpg" width="220" alt="Jordan" />
 
 <sub><i>// user.png</i></sub>
 
